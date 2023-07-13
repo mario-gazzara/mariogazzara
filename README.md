@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mario Gazzara, software engineer with 5+ years background in <b>REST API development</b>.
 - 👀 I’m interested <b>System Architecture</b> & <b>Engineering</b>
-- 🌱 I’m currently learning <b>Frontend Development Skills</b>
 - 📫 How to reach me text me on gazzmarion@gmail.com
 
 <!---

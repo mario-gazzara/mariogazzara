@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Mario Gazzara, software engineer with 5+ years background in <b>REST API development</b>.
-- 👀 I’m interested <b>System Architecture</b> & <b>Engineering</b>
-- 📫 How to reach me text me on gazzmarion@gmail.com
+👋 Hi, I’m Mario Gazzara, a seasoned software engineer with over 8 years of experience in backend development.
 
-<!---
-gazer99/gazer99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m particularly interested in System Architecture & Engineering, with a strong focus on microservices architecture, cloud computing using AWS, and transitioning into the role of a Solution Architect.
+
+📫 You can reach me via email at gazzmarion@gmail.com.
+
+Background
+I founded a software development company that I served for 3 years, gaining valuable insights into business operations and project management alongside technical expertise. Additionally, I have experience as a Chief Technology Officer (CTO) at a startup in the healthcare industry.
+
+Interests
+System Architecture & Engineering
+Microservices Architecture
+Cloud Computing (AWS)
+Solution Architecture
+Feel free to reach out if you have any questions or opportunities for collaboration!
